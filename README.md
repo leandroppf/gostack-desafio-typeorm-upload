@@ -7,7 +7,7 @@
 <p align="center">“Só deseje as coisas as quais você está disposto a lutar”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandroppf/gostack-desafio-typeorm-upload?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandroppf/gostack-desafio-conceitos-react-native?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Leandro Pedroso" src="https://img.shields.io/badge/made%20by-Leandroppf-%2304D361">
